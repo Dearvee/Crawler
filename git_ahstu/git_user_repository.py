@@ -16,7 +16,7 @@ n = 4
 #假设仓库数最多的用户不超过三页仓库
 repositorys = []
 for y in users_name:
-    user_rep = 0
+    user_rep = 1
     print(y)
     for z in range(1,n):
         res2 = requests.get(url2+y+'?page='+str(z))
