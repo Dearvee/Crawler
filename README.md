@@ -29,7 +29,7 @@
 -----
 
 ## About taobao_ commodity
-##### P[ython爬虫 获得淘宝商品评论](http://www.cnblogs.com/dearvee/p/6565688.html)
+##### [Python爬虫 获得淘宝商品评论](http://www.cnblogs.com/dearvee/p/6565688.html)
 
 
 -----
